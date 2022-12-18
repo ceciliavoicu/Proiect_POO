@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\razva\source\repos\Proiect_POO_CeciliaVoicu\bilet.h(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\razva\source\repos\Proiect_POO_CeciliaVoicu\eveniment.h(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\razva\source\repos\Proiect_POO_CeciliaVoicu\locatie.h(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\razva\source\repos\Proiect_POO_CeciliaVoicu\Source.cpp(175,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\razva\source\repos\Proiect_POO_CeciliaVoicu\Source.cpp(193,81): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\razva\source\repos\Proiect_POO_CeciliaVoicu\Source.cpp(202,73): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\razva\source\repos\Proiect_POO_CeciliaVoicu\zona.h(195): warning C4172: returning address of local variable or temporary: l
+  Proiect_POO_CeciliaVoicu.vcxproj -> C:\Users\razva\source\repos\Proiect_POO_CeciliaVoicu\x64\Debug\Proiect_POO_CeciliaVoicu.exe
